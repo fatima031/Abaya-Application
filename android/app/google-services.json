@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801680963950",
+    "project_id": "tahir-qadri-abaya-app",
+    "storage_bucket": "tahir-qadri-abaya-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801680963950:android:9b854801f6a2f6e12da97f",
+        "android_client_info": {
+          "package_name": "com.example.abayaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb265mRAp361ek2vCWWq0ieB6FcG6y2jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
